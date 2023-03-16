@@ -1,0 +1,30 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smitbry17/chatbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smitbry17/chatbot/issues"
+  },
+  "homepage": "https://github.com/smitbry17/chatbot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.6.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.36",
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
